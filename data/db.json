@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Banana",
+      "price": 5499,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Potato",
+      "price": 300,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Tea",
+      "price": 500,
+      "checked": true
+    },
+    {
+      "id": 4,
+      "name": "Phone",
+      "price": 9900,
+      "checked": true
+    },
+    {
+      "id": 5,
+      "name": "Data",
+      "price": 1500,
+      "checked": true
+    },
+    {
+      "name": "yyrr",
+      "price": "55",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "qq",
+      "price": "59",
+      "checked": true,
+      "id": 8
+    },
+    {
+      "name": "tsfd",
+      "price": "044",
+      "checked": true,
+      "id": 9
+    },
+    {
+      "name": "test",
+      "price": "88",
+      "checked": true,
+      "id": 10
+    }
+  ]
+}
